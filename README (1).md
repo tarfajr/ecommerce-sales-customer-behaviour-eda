@@ -56,8 +56,3 @@ Place these six files in the `data/` folder (not included in this repository):
 - **No cost or customer data:** advertising costs and demographics are not available, so return on ad spend and customer segmentation are not covered.
 - **Observational data:** apart from the concurrent A/B tests, results show association, not causation. The what-if values are sensitivities based on 2014 volumes, not forecasts.
 
-## Video walkthrough
-[Add your video link here]
-
-## Author
-[Your Name] | [LinkedIn link] | [GitHub link]
